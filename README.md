@@ -1,1 +1,2 @@
 # Mushroom Classification using Decision Tress
+This analysis uses machine learning, specifically a decision tree algorithm, to classify mushrooms as either edibleor poisonous based on their physical characteristics. With many people foraging mushrooms for consumption orsale to restaurants, it’s critical that novice foragers can accurately identify poisonous specimens. This report aimsto develop a reliable classification model that can identify the key characteristics distinguishing edible frompoisonous mushrooms, providing clear guidelines for safe foraging.
